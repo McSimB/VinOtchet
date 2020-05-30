@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceScreen
+		android:key="key_sorts"
+		android:title="@string/sorts"
+		android:persistent="false">
+		
+		<CheckBoxPreference
+			android:key="key_check"
+			android:title="@string/sorts"/>
+	</PreferenceScreen>
+</PreferenceScreen>

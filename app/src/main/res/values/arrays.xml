@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="months">
+		<item>Январь</item>
+		<item>Февраль</item>
+		<item>Март</item>
+		<item>Апрель</item>
+		<item>Май</item>
+		<item>Июнь</item>
+		<item>Июль</item>
+		<item>Август</item>
+		<item>Сентябрь</item>
+		<item>Октябрь</item>
+		<item>Ноябрь</item>
+		<item>Декабрь</item>
+	</string-array>
+
+	<string-array name="logs_titles">
+		<item>***</item>
+		<item>Отчёт о движении продукции</item>
+		<item>Учёт алкогольной продукции</item>
+		<item>Сведения о работе цеха</item>
+	</string-array>
+
+	<string-array name="info_title_list">
+		<item>Дата</item>
+		<item>Поступило</item>
+		<item>Вместим. бут.</item>
+		<item>Кол-во дал</item>
+		<item>Всего бут.</item>
+		<item>Испр. брак</item>
+		<item>Потери 0.1%</item>
+		<item>--//-- 0.24%</item>
+		<item>--//-- 0.34%</item>
+		<item>Сдано прод.</item>
+	</string-array>
+
+	<string-array name="report_title_list">
+		<item>Дата</item>
+		<item>Остаток нач.</item>
+		<item>Испр. брак</item>
+		<item> </item>
+		<item>Из лабор-ии</item>
+		<item>Потери 0.09%</item>
+		<item>--//-- 0.33%</item>
+		<item>--//-- 0.42%</item>
+		<item>На розлив</item>
+		<item>Остаток кон.</item>
+	</string-array>
+
+	<string-array name="alcohol_title_list">
+		<item>Поступило</item>
+		<item>Счётчик 1, на нач.</item>
+		<item>Счётчик 1, на кон.</item>
+		<item>Учтено сч.1, шт.</item>
+		<item>--//-- дал</item>
+		<item>Расхождение</item>
+		<item>Счётчик 2, на нач.</item>
+		<item>Счётчик 2, на кон.</item>
+		<item>Учтено сч.2, шт.</item>
+		<item>--//--</item>
+		<item>Примечание</item>
+		<item> </item>
+	</string-array>
+
+	<string-array name="job_title_list">
+		<item>Остаток на нач.</item>
+		<item>Поступило</item>
+		<item>Вместимость</item>
+		<item>Количество, шт.</item>
+		<item>Всего, дал</item>
+		<item>Брак/сливов</item>
+		<item>Потери факт., дал</item>
+		<item>Потери факт., %</item>
+		<item>Потери норма, %</item>
+		<item>Остаток на кон.</item>
+	</string-array>
+	
+	<string-array name="material_title_list">
+		<item>Колпачок алюм.</item>
+		<item>Пробка ПЭТ</item>
+		<item>Колпачок ТУ</item>
+		<item>Этикетки</item>
+		<item>Клей SPC-5210</item>
+		<item>Клей SPC-2400</item>
+		<item>Дегмос-П</item>
+		<item>Тринатрийфосфат</item>
+		<item>Фильтр-картон</item>
+		<item> </item>
+		<item>Акц. марка 0,5</item>
+		<item>Акц. марка 0,7</item>
+		<item> </item>
+	</string-array>
+	
+</resources>

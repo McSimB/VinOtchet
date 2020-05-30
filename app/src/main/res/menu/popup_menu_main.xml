@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/popup_menu_main_info"
+        android:title="@string/info"/>
+    
+	<item
+		android:id="@+id/popup_menu_main_materials"
+		android:title="@string/materials"/>
+	
+</menu>

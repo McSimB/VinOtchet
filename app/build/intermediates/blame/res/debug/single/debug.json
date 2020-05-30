@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_solid.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\rect_solid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_stamps.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_stamps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_stamps.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\stamps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_sorts.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_sorts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_materials.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_materials.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_stamps_list_item.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\stamps_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_frame.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\rect_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_list_view.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\main_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_settings.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_statistic.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_statistic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_material_list_item.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\material_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_add.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu_main.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\menu\\popup_menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_context_menu.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\menu\\main_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\menu_stamps_menu.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\menu\\stamps_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_log.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_rounded_frame.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\rect_rounded_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_material.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_list_item.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\menu_log_menu.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\menu\\log_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_gradient_solid.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\rect_gradient_solid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_input.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_gradient.xml.flat",
+        "source": "C:\\Users\\Bruker\\AndroidStudioProjects\\VinOtchet\\app\\src\\main\\res\\drawable\\rect_gradient.xml"
+    }
+]

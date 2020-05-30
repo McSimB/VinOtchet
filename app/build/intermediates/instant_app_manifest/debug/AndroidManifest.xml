@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mcsimb.vinotchet"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@android:style/Theme.DeviceDefault.Light" >
+        <activity
+            android:name="com.mcsimb.vinotchet.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mcsimb.vinotchet.AddActivity"
+            android:label="@string/add_title"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.mcsimb.vinotchet.LogActivity"
+            android:label=""
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mcsimb.vinotchet.MaterialActivity"
+            android:label="@string/mat_consumption"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mcsimb.vinotchet.StampsActivity"
+            android:label="@string/doc_stamps"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

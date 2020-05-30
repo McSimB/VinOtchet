@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ВинОтчёт</string>
+    <string name="main_title">Журнал производства</string>
+    <string name="add">Добавить</string>
+	<string name="materials">Материалы</string>
+	<string name="mat_consumption">Расход материалов</string>
+	<string name="select_period">Выбор периода</string>
+	<string name="edit">Изменить</string>
+	<string name="remove">Удалить</string>
+	<string name="export">Экспорт</string>
+    <string name="add_title">Добавить производство</string>
+    <string name="add_blend_title">Добавьте новый купаж</string>
+    <string name="counter1">Счётчик №1</string>
+    <string name="counter2">Счётчик №2</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="month_select_title">Выбор месяца:</string>
+    <string name="other_month">Выбрать другой месяц</string>
+	<string name="statistic">Статистика</string>
+	<string name="month_summary">Сводка за месяц</string>
+	<string name="rework_acts">Исправимый брак</string>
+	<string name="doc_stamps">Акцизные марки</string>
+	<string name="rework_acts_title">Акты на испр. брак</string>
+	<string name="require_title">Требования-накладные</string>
+	<string name="sum">. . . . . итого:</string>
+	<string name="acts">Акты</string>
+	<string name="require">Накладные</string>
+	<string name="made">Произведено:</string>
+	<string name="rest">Остаток:</string>
+    <string name="new_month">Новый месяц</string>
+    <string name="exit">Выход</string>
+    <string name="no_sd">Карта памяти не найдена!</string>
+    <string name="no_data">Данные не найдены!</string>
+    <string name="no_dir">Папка с данными не создана!</string>
+    <string name="bad_day">Дата не верная!</string>
+    <string name="bad_counter">Данные счётчика не верные!</string>
+	<string name="bad_data">Неверные данные!</string>
+    <string name="month_exist">Месяц уже существует!</string>
+    <string name="create">создан.</string>
+	<string name="export_complete">Экспорт завершен!</string>
+    <string name="left_arrow"><![CDATA[<<]]></string>
+    <string name="right_arrow"><![CDATA[>>]]></string>
+	<string name="log_select_title">Выбор журнала учёта:</string>
+	<string name="volume5">0,5</string>
+	<string name="volume7">0,7</string>
+	<string name="settings">Настройки</string>
+	<string name="sorts">Сорта вин</string>
+	<string name="used_sorts">Используемые сорта вин</string>
+	<string name="add_stamps_title">Добавить диапазон марок</string>
+    <string name="info">Сведения о работе цеха</string>
+
+</resources>

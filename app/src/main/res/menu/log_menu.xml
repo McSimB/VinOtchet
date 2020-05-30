@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/menu_require_log"
+        android:title="@string/require"
+		android:showAsAction="always"
+		android:visible="false"/>
+	
+	<item
+		android:id="@+id/menu_export_log"
+		android:title="@string/export"
+		android:showAsAction="always"
+		android:visible="false"/>
+	<item
+		android:id="@+id/menu_settings_log"
+		android:title="@string/settings"
+		android:visible="false"/>
+    
+</menu>

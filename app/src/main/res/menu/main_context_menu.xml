@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/ctx_menu_edit_main"
+        android:title="@string/edit"/>
+	
+	<item
+        android:id="@+id/ctx_menu_remove_main"
+        android:title="@string/remove"/>
+    
+</menu>

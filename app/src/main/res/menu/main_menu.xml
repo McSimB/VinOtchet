@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/menu_add_main"
+		android:icon="@android:drawable/ic_menu_add"
+		android:showAsAction="always"
+		android:title="@string/add"/>
+	<item
+		android:id="@+id/menu_month_summary_main"
+		android:title="@string/month_summary"/>
+	<item
+		android:id="@+id/menu_rework_acts_main"
+		android:title="@string/rework_acts"/>
+	<item
+		android:id="@+id/menu_doc_stamps_main"
+		android:title="@string/doc_stamps"/>
+	<item
+		android:id="@+id/menu_other_month_main"
+		android:title="@string/other_month"/>
+	<item
+		android:id="@+id/menu_new_month_main"
+		android:title="@string/new_month"/>
+	<item
+		android:id="@+id/menu_settings_main"
+		android:title="@string/settings"/>
+	<item
+		android:id="@+id/menu_exit_main"
+		android:title="@string/exit"/>
+</menu>
